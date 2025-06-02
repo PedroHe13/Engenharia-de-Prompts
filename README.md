@@ -1,4 +1,46 @@
-Neste **Markdown** irei mostrar como 3 IAs diferentes reagem a um mesmo prompt mas com modificações de tecnicas aplicadas diferentes para cada um :
+Neste **Markdown** irei mostrar como 3 IAs diferentes reagem a um mesmo prompt mas com modificações de tecnicas aplicadas diferentes para cada um, mas antes, algumas perguntas :
+
+---
+
+> **“O que é um Grande Modelo de Linguagem (LLM)? Como você explicaria isso para alguém que nunca ouviu falar?”**
+> 
+> 📌 *É um tipo de Inteligência Artificial que se especializa em processar, entender e gerar a nossa linguagem.*
+
+---
+
+> **“Você sabe o que significa a sigla GPT? Tente imaginar o que está por trás dessas letras.”**
+> 
+> 📌 *Generative Pre-trained Transformer — em português, pode ser traduzido como Transformador Pré-treinado Generativo.*
+
+---
+
+> **“O que você entende por Engenharia de Prompts? Como explicaria esse conceito para um colega?”**
+> 
+> 📌 *É a capacidade de criar e otimizar prompts para uma IA, a fim de obter respostas mais precisas e relevantes.*
+
+---
+
+> **“Por que Engenharia de Prompts é tão importante para Desenvolvedores de Sistemas? O que muda na prática?”**
+> 
+> 📌 *Oferece aos desenvolvedores mais controle sobre as interações dos usuários com a IA.*
+
+---
+
+> **“Quais são os princípios fundamentais na hora de construir um bom prompt? Você lembra de algum?”**
+> 
+> 📌 *Clareza, contexto, especificidade, tarefa bem definida, exemplo, controle de tom e estilo…*
+
+---
+
+> **“Quais são as ferramentas de IA generativa que mais ajudam no desenvolvimento de sistemas atualmente?”**
+> 
+> 📌 *Copilot, OpenAI, Tabnine, Replit Ghostwriter.*
+
+---
+
+Agora vamos pros prompts e suas modificações técnicas:
+
+---
 
 ## 📝 Prompt Principal:
 > **“Imagine que você acordou em um mundo onde tudo é feito de papel. Como seria seu dia? O que você faria primeiro?”**
